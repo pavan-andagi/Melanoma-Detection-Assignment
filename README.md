@@ -25,7 +25,7 @@ ReLU: Outputs the input value if positive, otherwise returns zero, helping with 
 Softmax: Ensures output values are probabilities that sum to one, used for classification tasks with multiple classes.
 
 ### Conclusion
-The CNN model was trained over approximately 20 epochs and evaluated over 50 epochs, achieving an accuracy of 92%. Detailed steps and results can be found in the Python notebook Melanoma_Detection_Assignment.ipynb under the "Train the Model" section.
+The CNN model was trained over approximately 20 epochs and evaluated over 50 epochs, achieving an accuracy of 92%. Detailed steps and results can be found in the Python notebook Pavan_Andagi_nn.ipynb under the "Train the Model" section.
 
 ### Contact
 Created by: Pavan Andagi
